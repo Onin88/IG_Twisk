@@ -5,7 +5,7 @@
 
 > [!NOTE]
 > Voici le lien pour une explication plus clarifiée par notre licence : https://licence-master-informatique.formation.univ-lorraine.fr/portfolio/projet-twisk-2020-21/
-> Ce site contient des images du projet
+> (Ce site contient des images du projet).
 
 
 ## Explications
