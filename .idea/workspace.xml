@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="IG-Twisk-beluche14u:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a301fa81-5e7e-475a-ae9f-6fae2ec889fa" name="Changes" comment="réajustement du cliquage de la ligne" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="268tXswRpd8GbLTuiP72PlAzv2n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../CHRU/pelemele_devmobile2022_tp-2.2_beluche_quentin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="twisk.mondeIG.EtapeIG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qbelu\OneDrive\Documents\FAC FST\L2\S4\IG\IG-Twisk-beluche14u\Twisk\src\twisk\exceptions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Launch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="twisk.MainTwisk" />
+      <module name="IG-Twisk-beluche14u" />
+      <option name="VM_PARAMETERS" value="--module-path \Users\qbelu\Downloads\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a301fa81-5e7e-475a-ae9f-6fae2ec889fa" name="Changes" comment="" />
+      <created>1646817083321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646817083321</updated>
+      <workItem from="1646817084578" duration="41000" />
+      <workItem from="1647353688172" duration="76000" />
+      <workItem from="1647421646407" duration="1131000" />
+      <workItem from="1647429714078" duration="1892000" />
+      <workItem from="1647705974611" duration="323000" />
+      <workItem from="1647706323322" duration="762000" />
+      <workItem from="1648915754151" duration="1196000" />
+      <workItem from="1648916980255" duration="290000" />
+      <workItem from="1648917285043" duration="146000" />
+      <workItem from="1648917443997" duration="415000" />
+      <workItem from="1648921191940" duration="8878000" />
+      <workItem from="1648931503711" duration="122000" />
+      <workItem from="1648931642295" duration="955000" />
+      <workItem from="1648934317033" duration="676000" />
+      <workItem from="1648935019389" duration="58000" />
+      <workItem from="1648935117155" duration="27000" />
+      <workItem from="1648935317827" duration="9544000" />
+      <workItem from="1648978266965" duration="20645000" />
+      <workItem from="1649074685395" duration="6088000" />
+      <workItem from="1649080851992" duration="3951000" />
+      <workItem from="1649088526108" duration="537000" />
+      <workItem from="1649091807735" duration="2912000" />
+      <workItem from="1649239222829" duration="161000" />
+      <workItem from="1650723788488" duration="46000" />
+      <workItem from="1651765663212" duration="44000" />
+      <workItem from="1651766816922" duration="13000" />
+      <workItem from="1676457485150" duration="968000" />
+      <workItem from="1676466790067" duration="59000" />
+      <workItem from="1676480501972" duration="58000" />
+    </task>
+    <task id="LOCAL-00012" summary="Création de vuePointDeControleIG et remplissage">
+      <created>1648979122983</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1648979122983</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Creation des arcs et instanciation dans mondeig reagir">
+      <created>1648981176552</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1648981176552</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Contrainte arcs">
+      <created>1648987648499</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1648987648499</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ajout de twisk exception">
+      <created>1648987679082</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1648987679082</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Creation ArcException">
+      <created>1648988066801</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1648988066801</updated>
+    </task>
+    <task id="LOCAL-00017" summary="remplissage ArcException">
+      <created>1648988371715</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1648988371715</updated>
+    </task>
+    <task id="LOCAL-00018" summary="s reagir d'vuearcig">
+      <created>1648988885254</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1648988885254</updated>
+    </task>
+    <task id="LOCAL-00019" summary="create sujetobserve">
+      <created>1648988931062</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1648988931062</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Create sujet observe et remplisasage">
+      <created>1648990063431</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1648990063431</updated>
+    </task>
+    <task id="LOCAL-00021" summary="create EcouteurActivite">
+      <created>1648990363268</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1648990363268</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Etape selectionné">
+      <created>1648991570343</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1648991570343</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add VueMenu">
+      <created>1648991754057</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1648991754057</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Ajout ecouteurquitter et remplissage vue menu">
+      <created>1648992235746</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992235746</updated>
+    </task>
+    <task id="LOCAL-00025" summary="remplissage ecouteur quitter">
+      <created>1648992343687</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1648992343687</updated>
+    </task>
+    <task id="LOCAL-00026" summary="remplissage ecouteur supprimer et ajout remove dans MondeIG">
+      <created>1648993155259</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1648993155259</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Ajout dun menu à laffichage">
+      <created>1648993830438</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1648993830438</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Ajout D'écouteur Renommer">
+      <created>1648993964996</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1648993964996</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Ajout et remplissage ecouteur renommer">
+      <created>1648996380560</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1648996380560</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Ajout Dragndrop dans certaines fcts">
+      <created>1648997599521</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1648997599521</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Ecouteur Drag fait">
+      <created>1648997817546</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1648997817546</updated>
+    </task>
+    <task id="LOCAL-00032" summary="EcouteurOver fait">
+      <created>1648998199147</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1648998199147</updated>
+    </task>
+    <task id="LOCAL-00033" summary="create EcouteurDropped">
+      <created>1648998227510</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1648998227510</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Ecouteur dropped fait">
+      <created>1648998407323</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1648998407323</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Ajout de dragndrop et mi selection d'arc">
+      <created>1648999197565</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1648999197565</updated>
+    </task>
+    <task id="LOCAL-00036" summary="presque ajout de suppression des arcs et ajout ecouteur effacer">
+      <created>1649000150502</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1649000150502</updated>
+    </task>
+    <task id="LOCAL-00037" summary="EcouteurEffacer fait">
+      <created>1649000616700</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1649000616700</updated>
+    </task>
+    <task id="LOCAL-00038" summary="SujetObserve mise en place">
+      <created>1649075036294</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1649075036294</updated>
+    </task>
+    <task id="LOCAL-00039" summary="REmove et removearc done">
+      <created>1649075851236</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1649075851236</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Update Clear">
+      <created>1649075966119</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1649075966119</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Ajout écouteur entrée">
+      <created>1649076137070</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1649076137070</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Ajout écouteurSortie">
+      <created>1649076156243</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1649076156243</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Ecouteur entree done">
+      <created>1649076752566</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1649076752566</updated>
+    </task>
+    <task id="LOCAL-00044" summary="EcouteurSOrtie done">
+      <created>1649076872844</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1649076872844</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Ajout délai">
+      <created>1649077075370</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1649077075370</updated>
+    </task>
+    <task id="LOCAL-00046" summary="ajout de notification dans ecouteur entree et sortie avec ajout fct dans moonde utilisé dans evcouteur delai">
+      <created>1649077433866</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1649077433866</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Ajout d'une error de plus d'1 selectionné">
+      <created>1649077621425</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1649077621425</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Ajout d'un print error dans ecouteur renommer">
+      <created>1649077758485</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1649077758485</updated>
+    </task>
+    <task id="LOCAL-00049" summary="EcouteurDelai done">
+      <created>1649078234070</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1649078234070</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Ajout delaiException">
+      <created>1649078294114</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1649078294115</updated>
+    </task>
+    <task id="LOCAL-00051" summary="DelaiException done">
+      <created>1649078468484</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1649078468484</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Delai et ecart done">
+      <created>1649079213059</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1649079213059</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Ajout des menus a l'affichage">
+      <created>1649079307807</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1649079307807</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Ajout distinction visuelle entrée/sortie">
+      <created>1649080715471</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1649080715471</updated>
+    </task>
+    <task id="LOCAL-00055" summary="png entrée/exit">
+      <created>1649080743994</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1649080743994</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Change">
+      <created>1649083164478</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1649083164478</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Diagramme de Classe UML">
+      <created>1649083656712</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1649083656712</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Diagramme de Classe UML">
+      <created>1649083698938</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1649083698938</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Finition">
+      <created>1649084512736</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1649084512736</updated>
+    </task>
+    <task id="LOCAL-00060" summary="réajustement du cliquage de la ligne">
+      <created>1649088868814</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1649088868814</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajout de dragndrop et mi selection d'arc" />
+    <MESSAGE value="presque ajout de suppression des arcs et ajout ecouteur effacer" />
+    <MESSAGE value="EcouteurEffacer fait" />
+    <MESSAGE value="SujetObserve mise en place" />
+    <MESSAGE value="REmove et removearc done" />
+    <MESSAGE value="Update Clear" />
+    <MESSAGE value="Ajout écouteur entrée" />
+    <MESSAGE value="Ajout écouteurSortie" />
+    <MESSAGE value="Ecouteur entree done" />
+    <MESSAGE value="EcouteurSOrtie done" />
+    <MESSAGE value="Ajout délai" />
+    <MESSAGE value="ajout de notification dans ecouteur entree et sortie avec ajout fct dans moonde utilisé dans evcouteur delai" />
+    <MESSAGE value="Ajout d'une error de plus d'1 selectionné" />
+    <MESSAGE value="Ajout d'un print error dans ecouteur renommer" />
+    <MESSAGE value="EcouteurDelai done" />
+    <MESSAGE value="Ajout delaiException" />
+    <MESSAGE value="DelaiException done" />
+    <MESSAGE value="Delai et ecart done" />
+    <MESSAGE value="Ajout des menus a l'affichage" />
+    <MESSAGE value="Ajout distinction visuelle entrée/sortie" />
+    <MESSAGE value="png entrée/exit" />
+    <MESSAGE value="Change" />
+    <MESSAGE value="Diagramme de Classe UML" />
+    <MESSAGE value="Finition" />
+    <MESSAGE value="réajustement du cliquage de la ligne" />
+    <option name="LAST_COMMIT_MESSAGE" value="réajustement du cliquage de la ligne" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Twisk/src/twisk/MainTwisk.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
